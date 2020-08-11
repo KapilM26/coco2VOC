@@ -1,0 +1,9 @@
+.vscode/*
+*.png
+*.xml
+*.txt
+*.pyc
+*.JPG
+*.jpg
+*.csv
+VOC_labels/*
