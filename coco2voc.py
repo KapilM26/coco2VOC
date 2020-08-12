@@ -36,4 +36,5 @@ try:
     os.mkdir(args.output_dir)
 except FileExistsError:
     pass
+
 coco2voc(ann_file=args.ann_file, output_dir=args.output_dir)
